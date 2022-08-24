@@ -1,0 +1,10 @@
+3 4 5
+1 2 7
+6 0 8
+1 up
+2 up
+2 left
+4 down
+5 down
+7 left
+7 down
